@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "559948781670",
+    "project_id": "kitchenitto",
+    "storage_bucket": "kitchenitto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559948781670:android:1a1b700dd44b88db4335a7",
+        "android_client_info": {
+          "package_name": "com.example.kitchenitto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "559948781670-f6sv0hodvclu1slo1lk2jtdop5u4v98q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIbGzowpKpS9s08WO3Vif9vWFDnap0ccE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "559948781670-01pmnqnd5at43t15tdetj09ef591leqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
