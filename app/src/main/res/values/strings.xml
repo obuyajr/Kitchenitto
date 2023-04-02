@@ -5,4 +5,6 @@
     <string name="password" />
     <string name="signup">SIGNUP</string>
     <string name="phonenumber">phonenumber</string>
+    <string name="click_to_signup">Click to SIGNUP</string>
+    <string name="click_to_login">Click to LOGIN</string>
 </resources>
