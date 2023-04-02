@@ -1,6 +1,7 @@
 {
   "project_info": {
     "project_number": "559948781670",
+    "firebase_url": "https://kitchenitto-default-rtdb.firebaseio.com",
     "project_id": "kitchenitto",
     "storage_bucket": "kitchenitto.appspot.com"
   },
