@@ -22,3 +22,4 @@ Navigate to the directory where you cloned the project and select the "kitchenit
 Wait for the project to load and sync all dependencies
 Connect your Android device to your computer (make sure USB debugging is enabled)
 Select your device from the list of available devices and click the "Run" button
+ This project mainly works at improving services in small restaurants 
