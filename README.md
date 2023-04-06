@@ -35,3 +35,12 @@ Checkout and payment processing
 Order tracking and status updates
 Push notifications for order updates and promotions
 Review and rating system
+
+Contributing
+Contributions to the project are welcome. To contribute, follow these steps:
+
+Fork the repository
+Create a new branch for your feature or bug fix
+Make your changes and test them
+Commit your changes and push them to your forked repository
+Submit a pull request to the original repository
