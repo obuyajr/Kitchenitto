@@ -23,3 +23,15 @@ Wait for the project to load and sync all dependencies
 Connect your Android device to your computer (make sure USB debugging is enabled)
 Select your device from the list of available devices and click the "Run" button
  This project mainly works at improving services in small restaurants 
+Features
+The app has the following features:
+
+User registration and login
+User profile management
+Restaurant search by name or location
+Menu browsing
+Adding items to the cart
+Checkout and payment processing
+Order tracking and status updates
+Push notifications for order updates and promotions
+Review and rating system
