@@ -6,12 +6,6 @@ Contributing
 Kitchenitto is an open-source project and contributions are welcome. If you find a bug or have a feature request, please create a new issue on the GitHub repository. Kitchenitto Android Studio.
 
 
-obuyajr17@gmail.com
-Write a read me file for kitchenitto android studio 
-
-README for Kitchenitto Android Studio Project
-Introduction
-Kitchenitto is an Android application that allows users to browse, search, and save recipes from a variety of sources. The app also includes a meal planner feature, where users can plan out their meals for the week and create a shopping list based on the ingredients needed.
 
 Installation
 To run Kitchenitto on your local machine, you will need to have Android Studio installed. Follow these steps to get started:
