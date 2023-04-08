@@ -10,7 +10,7 @@ Kitchenitto is an open-source project and contributions are welcome. If you find
 Installation
 To run Kitchenitto on your local machine, you will need to have Android Studio installed. Follow these steps to get started:
 
-Clone the project from the GitHub repository: https://github.com/yourusername/kitchenitto-android.git
+Clone the project from the GitHub repository
 Open Android Studio and select "Open an existing Android Studio project"
 Navigate to the directory where you cloned the project and select the "kitchenitto" folder
 Wait for the project to load and sync all dependencies
